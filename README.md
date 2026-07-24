@@ -1,7 +1,7 @@
 # Breww-to-Hived
 A tool to match customer invoices and orders.
 
-# Download the zip folder above
+# Download the "Breww_to_Hived_v1.0.zip" folder
 1. **Extract** the whole ZIP into a normal folder.
 2. **Keep all files together.**
 3. Double-click RUN_TOOL_WINDOWS.bat.
@@ -26,4 +26,7 @@ For example: we are going to start doing Watermelon as the new flavour
 
 **How do we do this?**
 
-We open the setting
+We open the "settings.json" file
+- this contains lines for the different flavours such as: {"name": "Elderflower", "code": "E", "priority": 2, "aliases": ["Elderflower"]},
+- 
+
