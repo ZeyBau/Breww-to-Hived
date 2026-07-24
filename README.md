@@ -1,6 +1,14 @@
 # Breww-to-Hived
 A tool to match customer invoices and orders.
 
+# Important note: Python 3.11 or newer is required. No extra packages are needed.
+https://www.python.org/downloads/
+
+Just download this, the script requires you to have python.
+- open the installer
+- read the prompts and type "y" and press enter
+- do this until python is installed
+
 # Download the "Breww_to_Hived_v1.0.zip" folder
 1. **Extract** the whole ZIP into a normal folder.
 2. **Keep all files together.**
@@ -10,11 +18,6 @@ A tool to match customer invoices and orders.
 6. Click Process today's orders.
 7. Upload the generated ***_upload.csv** file to Hived.
 8. Review ***_manual_processing.csv** before printing.
-
-# Important note: Python 3.11 or newer is required. No extra packages are needed.
-https://www.python.org/downloads/
-
-Just download this, the script requires you to have python.
 
 # After downloading and extracting - read the "README" and "START_HERE" files inside the folder
 These will explain how the app works and how to use it
