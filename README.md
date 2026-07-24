@@ -24,7 +24,7 @@ These will explain how the app works and how to use it
 # Adding new flavours
 The zip folder contains a file called 'settings' or 'settings.json'
 This is a .json file that contains the "rules" of the script. i.e. what are the flavours we sell and how do we shorten them?
-**When we start doing a new flavour - this file must be ammended ** otherwise the script will not recognise the flavour
+**When we start doing a new flavour - this file must be ammended** otherwise the script will not recognise the flavour
 
 For example: we are going to start doing Watermelon as the new flavour
 - we must ammend the "settings" file
