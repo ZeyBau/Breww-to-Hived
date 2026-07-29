@@ -9,7 +9,7 @@ Just download this, the script requires you to have python.
 - read the prompts and type "y" and press enter
 - do this until python is installed
 
-# Download the "Breww_to_Hived_v1.0.zip" folder
+# Download the "Breww_to_Hived_v1.1.zip" folder
 1. **Extract** the whole ZIP into a normal folder.
 2. **Keep all files together.**
 3. Double-click RUN_TOOL_WINDOWS.bat.
